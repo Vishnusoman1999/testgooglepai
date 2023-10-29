@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ecocnomicdata",
+  "private_key_id": "6740cdc2902fdbeaf209bd09735ef34bccc10395",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2ZlwMiIvqpHOg\n6OjUGqNcDekmAuHGfu/3vxRGx8Ot5jj6MvR/Gt4pkF9ABfYZZlulA9d3SG1C1VII\n5kIOm0O7Gleh4I0Nw7WeM7snqBocYpyWV8LDo2Qfo0tVYFi7VFlyYOOerXBJYw4l\nwMtkpq/HlLtDeZniKlf07V/9nH2U9yOka7dBsdwoUilik2+HFqmE35/u19CjjEmv\nku+1HGYt6JaH5+C4e1S7g5FVX4NOtBg98YksgAqs+beTB7AibLTtoTsIDJvV6/AU\nvarHouxOaO9tni8CcxJPX+I4d1SpoL/3VekRQiJXRWWXCZJ0kY33is6Z/+O8eb/M\nC7ZnNRD7AgMBAAECggEAWkFKORV0DpZzdOLrGtFXllx3ysxQRfVX7sKJWQDOTgWG\nmh+Opjp4Rh7fUwHgJe9lV8EP5EFdd12xKyAs/adMm4/MXxiLE42NGAxHBreCvBr7\nmtUwVbhK+fDGfSegoIl7fUJ+P21ZC6dNP9cnjdWBU4PAKgJI6AXF4jd3cTn3Vjci\nfDDt1aced1XHBzoaQPeda1aj/6N+uNZGmzwaySYNpELv7xUjF2lgWvMa7wE6kZRK\n0Rs4q+XmDzY+qEhrRZFw0XLNVX9XPxez6U9aeThO5YVn018eGMgUGS/dVuNU7CnJ\n7lemvjKni1OUZHthWzktAWI9liOMGklRszXSmpIQOQKBgQDYwIQmHQ+PHlGwg3As\nF0QmnuK1J+FyUSqv21oeuuwUWPQvziWB/fiDCYiM4w3v/MicA0ybSKIrcgGiyfsg\nowiKB/W8TT6oIGv8+S/qAFs9AOl1p3ntWksSnMkn+s1sFFXI1I0ubbK5zPhc3Jww\nK9IgZDZ/mEVSZT+y2TWuVjVwFQKBgQDXbXUJxPD1Hj2WAEbEgYOhNl2sWxWsgsvU\nSAIL4a+/vWji1mwkAeTwBaWurPCBFgMZ+6YDNBMocKOdV6gYT8KYNWVniMYZbITD\n2mCbpctwAjV5FsXq3oGXN1hmHVr/+kLzuXyxFpEzzq3hySrgd7rK1zedEbaicNkQ\nHCZnTG2wzwKBgQC8hv6qU/6TglCVUk2/2+DIIsyXuv9pulWBri39qqHqtNB3wDt5\njJiaCTG/MUKPKfSnVmtMaWm8liX8HOiUI5oqzO+dgCZuf/zNhUR6qSKytddaIXh4\nzV+c6chBQPFp/2n6C35dEscwuqqPwscLUyIqUF/irWQmXbCA9FKvt4Y1XQKBgEcf\njyVzjO4QVtrgKn0UGWYvMcwGomg7IppqT6qmj0SpfyhtDHTy3yfTZXj/BcRIhSud\n5phmJ/ERByOaXhfwtVlVP65n/KdGKasTvROGMF1BjW/18c/yOCy5jAjipjme4V3g\nHmfFAJlvIf9KUEqdnOD9HxJPV9HXmgJ0mMU/+XMHAoGBALt8vDco6jrS26hW6zut\nzm4rcVEJzDtC+D6F3c6MDxN8YuIEdnmsyiDGsGTSo7fER+OriwRcqVptNdU4W9v/\nw5pendokWGsXDNi1JG61dw0ix7aAKPJrnd3pTviomFOpGICSoG9Vh6/qvG9Tsd+A\nu8vTXRu7xzOffseOZrnTiGQV\n-----END PRIVATE KEY-----\n",
+  "client_email": "economicdata-876@ecocnomicdata.iam.gserviceaccount.com",
+  "client_id": "107304441485636003515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/economicdata-876%40ecocnomicdata.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
