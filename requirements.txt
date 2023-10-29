@@ -109,7 +109,7 @@ tvdatafeed @ git+https://github.com/rongardF/tvdatafeed.git@e6f6aaa7de439ac6e454
 typing_extensions==4.7.1
 tzdata==2023.3
 tzlocal==4.3.1
-urllib3==2.0.4
+urllib3
 validators==0.20.0
 watchdog==3.0.0
 wbgapi==1.0.12
